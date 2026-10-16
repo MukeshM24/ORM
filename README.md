@@ -4,10 +4,7 @@
 ## AIM
 To develop a Django Application to store and retrieve data from a Vehicle Service Database platform using Object Relational Mapping(ORM).
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 5dd71a27a4dc7707c1319a8bb1fa6303aa26280c
 
 
 
